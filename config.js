@@ -4,7 +4,7 @@ const chalk = require('chalk')
 // BOT-INFO
 global.botName = "XLECC"
 global.ownerName = "LECiii"
-global.botNumber = "6288294638214"
+global.botNumber = "628824638214"
 global.devNumber = ["6288294638214"]
 
 // ADMIN-PANEL
